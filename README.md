@@ -1,5 +1,5 @@
 <ul>
-  <li>Jobbar på mitt examensarbete</li>
+  <li>Pluggar UXD på HIS.</li>
 </ul>
 <div align="center">
   <a href="https://github.com/oscarpergler" align="center">
